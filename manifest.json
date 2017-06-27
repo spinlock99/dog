@@ -1,9 +1,9 @@
 {
-  "short_name": "NAME",
-  "name": "NAME",
+  "short_name": "dog",
+  "name": "dog",
   "icons": [
     {
-      "src":"ICON",
+      "src":"https://process.filestackapi.com/resize=width:140/eHhcserESva4zICNv5kD",
       "sizes": "",
       "type": ""
     }
